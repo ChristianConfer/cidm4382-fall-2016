@@ -1,0 +1,70 @@
+db.vfri.save (
+    {
+	weight: 18000
+	flap5: 116
+	flap10:110
+	flap15: 107
+	vclimb: 130
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 20000
+	flap5: 120
+	flap10:112
+	flap15: 109
+	vclimb: 131
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 22000
+	flap5: 126
+	flap10:118
+	flap15: 115
+	vclimb: 137
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 24000
+	flap5: 132
+	flap10:123
+	flap15: 120
+	vclimb: 143
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 26000
+	flap5: 137
+	flap10:128
+	flap15: 125
+	vclimb: 148
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 28000
+	flap5: 142
+	flap10:134
+	flap15: 130
+	vclimb: 154
+    }
+
+)
+db.vfri.save (
+    {
+	weight: 18000
+	flap5: 146
+	flap10:137
+	flap15: 133
+	vclimb: 158
+    }
+
+)
